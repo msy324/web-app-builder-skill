@@ -171,4 +171,4 @@ MIT
 
 ---
 
-**Built for [WorkBuddy](https://workbuddy.ai)** — Made with ❤️ by [@mys324](https://github.com/mys324)
+
